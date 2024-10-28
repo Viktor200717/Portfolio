@@ -20,4 +20,29 @@ table, th, td {
   }
   #menu {
     font-size: 20px;
+    display:flex;
   }
+header
+{
+    display:flex;
+}
+.synek
+{
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    padding: 60px;
+    border-radius: 40px;
+    margin: 10px;
+    font-size: 70px;
+}
+p:hover
+{
+  color:blue ;
+}
+.synek{
+    border: 4px solid white;
+}
+.synek:hover{
+ border-color: brown;
+}
