@@ -33,7 +33,7 @@ header
     font-family: 'MONTSERRAT';
     text-transform: capitalize;
 }
-a:hover
+p:hover
 {
   color:blue ;
 }
